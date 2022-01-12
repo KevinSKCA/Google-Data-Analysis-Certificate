@@ -2,20 +2,20 @@
 This is case study about Bike-shared company.
 I wll practice my skills through the following steps:
 
-Going through the Ask, Prepare, Process, Analyze, and Share phases of the data analysis process
+  Going through the Ask, Prepare, Process, Analyze, and Share phases of the data analysis process
 
-Stating a business task clearly
+  1. Stating a business task clearly
 
-Importing data from a real dataset
+  2. Importing data from a real dataset
 
-Documenting any data cleaning that you perform on the dataset
+  3. Documenting any data cleaning that you perform on the dataset
 
-Analyzing the data 
+  4. Analyzing the data 
 
-Creating data visualizations from your analysis
+  5. Creating data visualizations from your analysis
 
-Summarizing key findings from your analysis
+  6.Summarizing key findings from your analysis
 
-Documenting your conclusions and recommendations
+  7.Documenting your conclusions and recommendations
 
-Creating and publishing your case study 
+  8. Creating and publishing your case study 
