@@ -14,8 +14,8 @@ I wll practice my skills through the following steps:
 
   5. Creating data visualizations from your analysis
 
-  6.Summarizing key findings from your analysis
+  6. Summarizing key findings from your analysis
 
-  7.Documenting your conclusions and recommendations
+  7. Documenting your conclusions and recommendations
 
   8. Creating and publishing your case study 
